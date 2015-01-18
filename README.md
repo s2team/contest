@@ -1,2 +1,3 @@
-# contest
-This is old URL to votesapp. Please go to https://github.com/s2team/votesapp
+# votesapp.de
+
+**We are moved.** Check: https://github.com/s2team/votesapp and http://votesapp.de.
